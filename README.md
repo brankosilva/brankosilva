@@ -5,7 +5,7 @@
 <br/>
 <br/>
 
-<p>Cofounder of <a href="https://buenairbnb.com.ar">BuenAirbnb</a><br/>
+<p>Cofounder of <a href="https://bairesrental.com.ar">BairesRental</a><br/>
 Frontend development in progress at <a href="https://coderhouse.com">Coderhouse</a><br/>
 Turist Content Creator on my <a href="https://instagram.com/brankuver">Instagram Brankuver</a></p>
 
